@@ -9,7 +9,7 @@ Interactive Charts: Visualize market trends with dynamic charts.​
 Responsive Design: Optimized for both desktop and mobile devices.​
 Live Demo
 
-Experience the application live at:
+Experience the application live at: https://crypto-xi-nine.vercel.app
 
 Technologies Used
 
