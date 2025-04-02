@@ -4,7 +4,6 @@ import { Inter } from 'next/font/google';
 import { Providers } from './providers';
 import { Header } from '@/components/layout/header';
 import { Sidebar } from '@/components/layout/sidebar';
-import WeatherPage from './weather/[city]/page';
 
 const inter = Inter({ subsets: ['latin'] });
 
